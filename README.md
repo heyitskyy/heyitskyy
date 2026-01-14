@@ -1,7 +1,5 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35" /> Hi, I'm [Your Name]
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Building%20Real%20Things&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,18&height=180&section=header&text=Zaky%20Ahmad%20Septyan%20Pradana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" />
 </div>
 
 <p align="center">
