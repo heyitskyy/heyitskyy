@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-FULLSTACK%20DEVELOPER-blueviolet?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/FOCUS-STARTUP%20%26%20UMKM-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-7-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Views" />
 </p>
 
 ---
@@ -14,7 +12,7 @@
 
 🎓 **Computer Engineering Student**  
 💻 **Web & Mobile App Developer**  
-🚀 **Interested in Startup, UMKM Digitalization, IoT, and AI-based Systems**  
+🚀 **IoT Enthusiast**  
 📍 **Indonesia**
 
 > *"Building useful tech, not just fancy code."*
