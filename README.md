@@ -14,48 +14,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/💼_Role-Fullstack_Developer-blueviolet?style=flat-square&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/🎯_Focus-Web_&_Mobile-ec4899?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://komarev.com/ghpvc/?username=thoriqqrn&style=flat-square&color=a855f7&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=heyitskyy&style=flat-square&color=a855f7&label=Profile+Views" />
 </p>
 
-<br/>
-
-<!-- ABOUT ME SECTION -->
-<div align="center">
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
-
-</div>
-
-```typescript
-const zaky = {
-    role: "Computer Engineering Student",
-    location: "Indonesia 🇮🇩",
-    expertise: ["Web Development", "Mobile Development", "IoT Systems"],
-    currentlyLearning: ["AI Integration", "Cloud Architecture", "DevOps"],
-    funFact: "I turn coffee into code ☕️"
-};
-```
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
+---
+## 👋 About Me
 🎓 **Computer Engineering Student**  
-💼 **Fullstack Web & Mobile Developer**  
-🔧 **IoT Enthusiast & Maker**  
-🌏 **Based in Indonesia**
-
-</td>
-<td align="center" width="50%">
-
-💡 **Problem Solver**  
-🚀 **Tech Innovator**  
-📚 **Continuous Learner**  
-🎯 **Goal-Oriented Developer**
-
-</td>
-</tr>
-</table>
+💻 **Web & Mobile App Developer**  
+🚀 **IoT Enthusiast**  
+📍 **Indonesia**
+---
 
 <br/>
 
